@@ -31,6 +31,7 @@ You can also test our implementation on any further dataset you wish by simply c
 where X is the dataset in matrix form and ListOfClusterings is a list of cluster-indices - representation pairs, cf. utils.R
 
 The required R packages and versions are listed here:
+```
 MultiRNG_1.2.2
 mvtnorm_1.1-0
 spatstat_1.64-1
@@ -47,3 +48,4 @@ foreach_1.4.8
 pbapply_1.4-2
 readr_1.3.1
 farff_1.1
+```
