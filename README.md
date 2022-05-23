@@ -8,3 +8,4 @@ Methods from these fields form the algorithmic base of data science, artificial 
 
 - [Effective Use of BERT in Graph Embeddings for Sparse Knowledge Graph Completion](projects/bertconve/) ACM SAC 2022 Track on Knowledge Graphs
  
+- [Impact of Training Instance Selection on Domain-Specific Entity Extraction using BERT](https://gitlab.know-center.tugraz.at/nlp/ie-small-data) NAACL 2022 student research workshop
