@@ -7,10 +7,10 @@ If you use any of our code in your paper, please use add the following citation:
   title={Cluster Purging: Efficient Outlier Detection based on Rate-Distortion Theory},
   author={Toller, Maximilian Bernhard and Geiger, Bernhard Claus and Kern, Roman},
   journal={IEEE Transactions on Knowledge and Data Engineering},
-  volume={TBA},
-  number={TBA},
-  pages={TBA},
-  year={TBA},
+  volume={35},
+  number={2},
+  pages={1270--1282},
+  year={2021},
   publisher={IEEE}
 }
 ```
